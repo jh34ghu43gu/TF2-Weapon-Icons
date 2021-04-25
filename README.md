@@ -14,3 +14,5 @@ Botkillers or skins are not included however australiums are.
 Action directory contains all infinitely reusable action items (besides the winter noisemaker).
 
 Taunts directory contains all the taunt icons also sorted by class.
+
+Cropped folder contains the same directories but all images are cropped as small as possible while still being a box.
